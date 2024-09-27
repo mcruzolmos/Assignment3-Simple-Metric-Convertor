@@ -1,18 +1,17 @@
-## Getting Started
+Welcome to this very simple metric convertor! 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Any and all instructions are supplied to the user when the app is ran. 
 
-## Folder Structure
+To reiterate: 
+Inputing 1 converts kg to lbs 
+Inputing 2 converts oz to g 
+Inputing 3 converts mi to km
+Inputing 4 converts in to cm
 
-The workspace contains two folders by default, where:
+Anything that is NOT within the range of 1 to 4 will simply result im an error.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+To end the conversion inputs simply enter no when asked.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+To continue the conversion inputs simple enter yes when asked.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Thank you for using this very simple conversion calculator!
